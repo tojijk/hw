@@ -1,0 +1,18 @@
+{
+  "name": "text.txt",
+  "path": "text.txt",
+  "sha": "7b85bc5cee3dd588bb050280497effd80bbd836c",
+  "size": 122,
+  "url": "https://api.github.com/repos/tojijk/hw/contents/text.txt?ref=master",
+  "html_url": "https://github.com/tojijk/hw/blob/master/text.txt",
+  "git_url": "https://api.github.com/repos/tojijk/hw/git/blobs/7b85bc5cee3dd588bb050280497effd80bbd836c",
+  "download_url": "https://raw.githubusercontent.com/tojijk/hw/master/text.txt",
+  "type": "file",
+  "content": "dHJpYWwgY29udGludWVzCmNkZHctNTU2NDU2CjQ1NDE1MWJoanZlZiAtIGkg\nbWFkZSBhIGNoYW5nZSB0byBjb25mbGljdAp3amViZmtqZWJmandlCmR3aGVm\nbGhlZmwKaGVsbG8gaG93IGFyZSB5b3U/CgphYmNkCgo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/tojijk/hw/contents/text.txt?ref=master",
+    "git": "https://api.github.com/repos/tojijk/hw/git/blobs/7b85bc5cee3dd588bb050280497effd80bbd836c",
+    "html": "https://github.com/tojijk/hw/blob/master/text.txt"
+  }
+}
